@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antoni Jesshua Galeana Ocampo</h1>
-<h3 align="just">I am a Mechatronics engineer graduated from IPN and currently pursuing a Master's degree in Artificial Intelligence at ITSM. My specialization revolves around embedded systems, electronics, and software development, with a focus on implementing more efficient solutions using the latest AI tools.</h3>
+<h3 style="text-align: justify;">I am a Mechatronics engineer graduated from IPN and currently pursuing a Master's degree in Artificial Intelligence at ITSM. My specialization revolves around embedded systems, electronics, and software development, with a focus on implementing more efficient solutions using the latest AI tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajgaleana&label=Profile%20views&color=0e75b6&style=flat" alt="ajgaleana" /> </p>
 
