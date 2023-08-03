@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajgaleana&label=Profile%20views&color=0e75b6&style=flat" alt="ajgaleana" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras, Open CV,Scikit-learn, API-REST,Flask**
+- 🌱 I’m currently learning **TensorFlow, PyTorch, Keras, Open CV,Scikit-learn, API-REST, Flask**
 
 - 👨‍💻 All of my software projects are available at [https://github.com/AJGaleana](https://github.com/AJGaleana)
 
